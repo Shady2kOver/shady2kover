@@ -14,7 +14,6 @@
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=web-piano-react)
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=pathfinder-astar)
 
 ----
