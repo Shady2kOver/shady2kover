@@ -4,6 +4,8 @@
 
 
 <h1 align="left">Hi , I'm Raghav</h1>  
+
+![enter image description here](https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/night%20code.gif)
 <h4 align="left">A 17 year old high-school passout, who's into programming 💻</h3>  
   
 ----
