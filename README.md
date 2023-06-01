@@ -9,7 +9,7 @@
 ----
 ### Check these out :-
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=naive-bayers-sentiment-analysis)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=naive-bayers-sentiment-analysis)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=deep-learning-traffic-signs)
 
 
