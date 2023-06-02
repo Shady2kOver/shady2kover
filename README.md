@@ -11,12 +11,12 @@
 ----
 ### Check these out :-
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=naive-bayers-sentiment-analysis)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=deep-learning-traffic-signs)
+![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shady2kover&repo=naive-bayers-sentiment-analysis)
+![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shady2kover&repo=deep-learning-traffic-signs)
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=web-piano-react)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shady2kover&repo=pathfinder-astar)
+![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shady2kover&repo=web-piano-react)
+![Readme Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shady2kover&repo=pathfinder-astar)
 
 ----
   
@@ -36,4 +36,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shady2kover&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shady2kover&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
